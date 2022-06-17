@@ -14,4 +14,4 @@ elif solvefor=="c":
     c = float(input('variable b: '))
     print(round(math.sqrt((a**2)+(b**2)),2))
 else:
-    print('enter a, b or cc and try again')
+    print('enter a, b or c and try again')
